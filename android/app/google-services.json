@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596300794534",
+    "project_id": "flower-house-ec4da",
+    "storage_bucket": "flower-house-ec4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596300794534:android:ae973ce4806ec0c142c267",
+        "android_client_info": {
+          "package_name": "com.zynatyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596300794534-cnsausgvjd6dkkqtt6di401sb124mdi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zynatyapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "596300794534-v5btmr0mbt5lrpf6jiipl4pcp10lcbkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6f_bLnfnmtYrYLLx1PLrdOjs4iN397Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596300794534-v5btmr0mbt5lrpf6jiipl4pcp10lcbkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
